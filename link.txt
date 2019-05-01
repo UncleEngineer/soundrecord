@@ -1,0 +1,7 @@
+check file here
+
+if you use python3.6 just pip install pyaudio
+
+but higher you have to manual install
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
